@@ -8,3 +8,5 @@ The AI Conversational Data Science Tutor is an interactive chatbot powered by ad
 ✅ Error Debugging: Helps troubleshoot coding issues and optimize solutions.
 
 Perfect for beginners and professionals looking to deepen their knowledge in Data Science! 🚀
+
+Check out the configuration reference at [(https://huggingface.co/spaces/santosh7/AI_converstion_Data_Science_Tutor)]
