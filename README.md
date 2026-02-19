@@ -9,4 +9,4 @@ The AI Conversational Data Science Tutor is an interactive chatbot powered by ad
 
 Perfect for beginners and professionals looking to deepen their knowledge in Data Science! 🚀
 
-Check out the configuration reference at [(https://huggingface.co/spaces/santosh0223/AI_converstion_Data_Science_Tutor)]
+Check out the configuration reference at [(https://huggingface.co/spaces/santosh0223/AI_Powered_Subtitle_Generator)]
